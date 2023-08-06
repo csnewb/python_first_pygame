@@ -1,0 +1,35 @@
+The game can be controlled via the mouse or the keyboard.
+
+Keyboard:
+A, S, D, F or Arrow Keys
+
+F1 to toggle on the mouse control (probably the best way to play in my opinion)
+
+------------------ The Basics  --------------------------------
+Your goal is to collect the Food (The Yellow Blocks) while avoiding all other obstacles.
+
+If you collide with an obstacle, you will take damage... it will be alot... and it will be fast.
+
+Your score is your health. If your score reaches zero it will be game over. 
+
+Every second, your score will be decreased slightly. 
+
+Every time you collect Food, you are rewarded with more points to your score.
+
+Every 5 times you collect Food, you will be rewarded with Shields. Your character will change to Purple.
+
+While you have Shields, you score will not be decreased if you collide with an obstacle, but your Shields will be decreased.
+
+Once your Shields have been used up, you will begin to decrease your Score again. 
+
+----------------  Difficulty Level  ---------------------------
+
+Every 25 levels, the game increases in Difficulty level. 
+
+The amount of damage taken from time and collissions is multiplied by the Difficulty Level.
+
+The amount of shields is slightly increased with each difficulty level 
+
+Every difficulty level a new Bouncing Obstacle is introduced with a random trajectory.
+
+Each difficulty level the new Bouncing Obstacle size is increased as well.
