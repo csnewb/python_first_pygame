@@ -15,8 +15,9 @@ Control Options: Players can choose between keyboard and mouse controls for the 
 Game Over Condition: The game ends if the score falls to zero, and the game displays the final score and level achieved.
 
 Stylish UI: With a beautiful menu bar and color-coded objects, the game provides an attractive and intuitive interface.
+
 --------------------------------------------------------------------------------------------------------------
-Description of Technologies and Principles Applied (For Potential Employers)
+# Description of Technologies and Principles Applied (For Potential Employers)
 "First Pygame" showcases a strong grasp of Python programming and the following specific skills and principles:
 
 Pygame Framework: The game leverages the Pygame library for rendering graphics, handling user input, and managing game timing.
