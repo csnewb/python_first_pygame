@@ -40,6 +40,13 @@ Responsive Design: The player's character and obstacles are kept within the play
 
 Overall, "First Pygame" illustrates a robust understanding of Python programming, game development principles, and the ability to build an interactive and visually appealing application. It demonstrates a strong foundation in coding, problem-solving, and software design.
 
+-------------------------------------------------------------------------------
+# How to run
+Make sure to install pygame in your venv
+
+The application can be launched from the main.py file
+
+------------------------------------------------------------------------------
 # My Thoughts
 This was an interesting project. I have always had an interest in games and have dabbled in game development over the years with looks like RPG Maker and Unity, but at those times I lacked a foundational knowledge of programming. This gave me a chance to reapproach game develoment, but with a solid understanding of what all of the code does, and why it does it.
 
